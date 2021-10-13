@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="headears">
+        <item>manzara1</item>
+        <item>manzara2</item>
+    </string-array>
+    <string-array name="aciklama">
+        <item>aciklama1</item>
+        <item>aciklama2</item>
+    </string-array>
+</resources>

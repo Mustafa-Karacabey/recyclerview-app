@@ -55,3 +55,18 @@ class ManzaraAdapter(tumManzara: ArrayList<Manzara>) : RecyclerView.Adapter<Manz
 
 
 }
+
+
+
+
+/*
+1- getItemCount
+2- onCreateViewHolder
+3- ManzaraViewHolder
+4-OnBindViewHolder
+
+-GetItemCount Sürekli Tetiklenir.Sürekli eleman sayısını kontrol eder ona göre listeyi güncelleyecek vs
+
+
+
+**/
